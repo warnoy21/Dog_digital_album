@@ -55,13 +55,16 @@ Copy
 Edit
 example_photos/
 🧭 Orientation & Photos
-Top Part:
-Tilt at -30 degrees from upright
-(example_photos\top_stl_tilted.jpg)
+### 🧭 Orientation & Photos
 
-Bottom Part:
-Use default Bambu Studio settings with correct orientation
-(example_photos\bottom_stl_position.jpg)
+- **Top Part:**  
+  Tilt at **-30 degrees from upright**  
+  ![Top STL Orientation](example_photos/top_stl_tilted.jpg)
+
+- **Bottom Part:**  
+  Use **default Bambu Studio settings** with correct orientation  
+  ![Bottom STL Position](example_photos/bottom_stl_position.jpg)
+
 
 ⚙️ Recommended Print Settings
 Setting	Value
