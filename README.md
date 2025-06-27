@@ -29,7 +29,7 @@
 
 ## 🔌 Circuit Schematic
 
-![Schematic](example_photos/schematic.jpg)
+![Schematic](schematic.jpg)
 
 ---
 
