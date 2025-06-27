@@ -54,7 +54,6 @@ STL files are located in:
 Copy
 Edit
 example_photos/
-🧭 Orientation & Photos
 ### 🧭 Orientation & Photos
 
 - **Top Part:**  
