@@ -70,23 +70,19 @@ STL files are located in:
 Copy
 Edit
 example_photos/
-🧭 Orientation & Photos
-Top Part:
-Tilt at -30 degrees from upright
+### 🧭 Orientation & Photos
 
+- **Top Part:**  
+  Tilt at **-30 degrees from upright**  
+  ![Top STL Orientation](example_photos/top_stl_tilted.jpg)
 
-Bottom Part:
-Use default Bambu Studio settings with correct orientation
+- **Bottom Part:**  
+  Use **default Bambu Studio settings** with correct orientation  
+  ![Bottom STL Position](example_photos/bottom_stl_position.jpg)
 
-⚙️ Recommended Print Settings
-Setting	Value
-Layer Height	0.2 mm
-Wall Thickness	2.0 mm
-Wall Line Count	5
-Horizontal Expansion	0
-Top Thickness	2.0 mm
-Bottom Thickness	2.0 mm
-Infill	15%
-Print Speed	45 mm/s
-Support	As Needed
+📬 Contact
+Want to showcase your own dog? Remix this for another pet?
+Let’s collaborate and make tech more lovable 🐾
+
+📧 aarongumba2016@gmail.com
 
