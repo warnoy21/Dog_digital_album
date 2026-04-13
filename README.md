@@ -84,5 +84,5 @@ example_photos/
 Want to showcase your own dog? Remix this for another pet?
 Let’s collaborate and make tech more lovable 🐾
 
-📧 aarongumba2016@gmail.com
+📧 .com
 
